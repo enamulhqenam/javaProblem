@@ -1,6 +1,6 @@
 // Write a program to find whether the given number is an Armstrong
 // number or not.
-public class amongest {
+public class ArmstrongNum {
     public static void main(String[] args){
         int num =371 , originalNum , remainder, remiander , result = 0 , n = 0 ;
 
